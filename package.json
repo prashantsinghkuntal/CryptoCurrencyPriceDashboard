@@ -1,7 +1,7 @@
 {
   "name": "crypto-dashboard",
   "version": "0.1.0",
-  "private": true,
+  "private": true, 
   "Author": "Pavan Kulkarni",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
